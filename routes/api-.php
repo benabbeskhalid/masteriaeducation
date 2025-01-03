@@ -1,0 +1,1 @@
+Route::apiResource('students', StudentController::class);
